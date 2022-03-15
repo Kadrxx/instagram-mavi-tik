@@ -1,7 +1,4 @@
-<h1>X Brute Forcer</h1>
-<p><a href="https://github.com/Moham3dRiahi/XBruteForcer"><img src="https://img.shields.io/badge/XBruteForcer-1.2-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-2.1-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/XBruteForcer"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/XBruteForcer"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
+<h1>CloR - İnstagram Telif</h1>
 <p> Brute Force Tool 🔓 WordPress , Joomla , DruPal , OpenCart , Magento </p>
 
 <h2>XBruteForcer</h2>
