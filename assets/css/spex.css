@@ -1,0 +1,116 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 40px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  width: 90%;
+}
+.container__or {
+  display: flex;
+  justify-content: space-evenly;
+  color: #999;
+}
+.container__or::before {
+  content: "";
+}
+.container__or::after {
+  content: "";
+}
+.container__or::before, .container__or::after {
+  display: block;
+  height: 2px;
+  width: 35%;
+  background-color: #999;
+  position: relative;
+  top: 8px;
+}
+.container__img {
+  height: 51px;
+  width: 175px;
+  position: relative;
+  left: 50%;
+  transform: translatex(-50%);
+  margin: 20px 0px;
+}
+.container__fblogin button {
+  padding: 7px 44px;
+  color: #3897f0;
+  font-size: 14px;
+  backgraund: white;
+}
+.container__form input {
+  height: 26px;
+  width: 100%;
+  flex-grow: 1;
+  margin: 5px 0px;
+  background-color: #FAFAFA;
+  box-shadow: none;
+  border: none;
+  border: 1px solid #EFEFEF;
+  border-radius: 3px;
+  padding: 3px 20px;
+  font-size: 14px;
+}
+.container__form button {
+  background-color: #3897f0;
+  padding: 10px 40px;
+  margin-top: 10px;
+  flex-grow: 1;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  box-shadow: none;
+  border: none;
+  border-radius: 3px;
+  width: 100%;
+}
+.container__terms {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 30px;
+}
+
+.account {
+  color: #999;
+  height: 40px;
+  border: 1px solid #E6E6E6;
+  position: relative;
+  left: 0px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0px 5px 10px 5px;
+}
+.account a {
+  text-decoration: none;
+  color: #3897f0;
+}
+
+.downblock {
+    background:white;
+    width:100%;
+    height:600px;
+    margin-top:250px;
+    font-family: 'Cabin', Sans-Serif;
+}
+.downblock h4 {
+    color:grey;
+    font-size: 17px;
+    padding:0 20 0 20px;
+    margin-top:-50px;
+    font-weight: 400;
+}
+.downblock p {
+    font-size: 12px;
+    color:#ABABAB;
+}
+.downblock span {
+    font-size: 12px;
+    color:#ababab;
+}
