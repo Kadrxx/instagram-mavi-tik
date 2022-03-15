@@ -1,19 +1,17 @@
-# CloR Wso Webshell (EDİTED)
+# CloR İnstagram Mavi Tik Script (EDİTED)
  ______________
-- [x] **WORDPRESS**
-- [x] **JOOMLA**
-- [x] **OPENCART**
-- [x] **ASP**
-- [x] **PHP**
-- [x] **HTML**
-### PHP , WORDPRESS , JOOMLA , OPENCART , ASP İLE KODLANMIŞ WEB SİTELERİNDE ÇALIŞMAKTADIR.
-### PHP , WORDPRESS , JOOMLA , OPENCART , ASP IT WORKS ON WEBSITES CODED WITH.
-
-
- ______________
+- [x] **LOG**
+- [x] **E-MAİL**
+- [x] **ŞİFRE**
+- [x] **ID**
+- [x] **2 ADIMLI DOĞRULAMA**
+__________
    <table>
       <tr>
-         <td>PASS: clor.wsp</td>
+         <td>User: clor</td>
+      </tr>
+        <tr>
+         <td>PASS: clor</td>
       </tr>
    </table>
    
@@ -27,13 +25,13 @@
 <table border="1">
 
  <tr>
-  <th>NOTE</th>
+  <th>NOT</th>
  </tr>
  <tr>
-  <td>Shell türkçeye çevrilip içerisinde düzenlemeler yapılmıştır.</td>
+  <td>Script türkçeye çevrilip editlenmiştir.</td>
  </tr>
  <tr>
-  <td>Shell was translated into Turkish and arrangements were made in it.</td>
+  <td>The script has been translated into Turkish and edited.</td>
  </tr>
 </table>
 
