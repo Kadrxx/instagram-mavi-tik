@@ -20,7 +20,7 @@ __________
    # SCREENSHOT
 ![photo_2022-03-09_03-29-52](https://user-images.githubusercontent.com/101375754/158370908-f06848ac-af14-4dcf-b888-88c8f292c544.png)
  ______________
-![photo_2022-03-09_03-29-51](https://user-images.githubusercontent.com/101375754/158007618-80389f3c-c487-481c-be30-4718976fd995.jpg)
+![photo_2022-03-09_03-29-51](https://user-images.githubusercontent.com/101375754/158371010-aa09c9ae-daae-4a27-b8e9-1bbfe5e95849.png)
 
 <table border="1">
 
