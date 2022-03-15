@@ -1,7 +1,8 @@
-<h1>CloR - İnstagram Telif</h1>
-<p> Brute Force Tool 🔓 WordPress , Joomla , DruPal , OpenCart , Magento </p>
+<h1>CloR - İnstagram Telif Script</h1>
+<p> 2 Adımlı Doğrulama Geçme 🔓 </p>
+<p> Pass 2-Step Verification</p>
 
-<h2>XBruteForcer</h2>
+<h2>Script</h2>
 
 <img src="http://i.imgur.com/kSmeHEn.jpg" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
 
