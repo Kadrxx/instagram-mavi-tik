@@ -4,7 +4,7 @@
 
 <h2>Script</h2>
 
-<img src="https://imgyukle.com/i/Evd4cf" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
+<img src="https://imgyukle.com/f/2022/03/15/Evd4cf.png" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
 
 <h2>Simple brute force script </h2>
 
